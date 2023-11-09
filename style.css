@@ -1,0 +1,43 @@
+body {
+	background-color: #FAF9F6;
+	font-family: Courier New;
+	padding: 0px;
+}
+
+h2 {
+	color: white;
+	text-align: center;
+	font-size: 32px;
+}
+
+h3 {
+	color: white;
+	font-size: 24px;
+}
+
+li {
+	color: white;
+	font-size: 18px;
+}
+
+
+#title {
+	text-align: center;
+	font-size: 40px;
+}
+
+#intro {
+	font-size: 24px;
+}
+
+.contentItem img {
+  width: 50%; 
+  height: 50%;    
+  margin: 0 auto;  /* Center the image horizontally */
+}
+
+#contentGrid {
+	width: 50%;
+}
+
+
