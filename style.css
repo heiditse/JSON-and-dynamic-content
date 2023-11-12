@@ -33,7 +33,7 @@ li {
 .contentItem img {
   width: 50%; 
   height: 50%;    
-  margin: 0 auto;  /* Center the image horizontally */
+  margin: 0 auto;  
 }
 
 #contentGrid {

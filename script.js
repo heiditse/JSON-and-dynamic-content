@@ -60,3 +60,5 @@ document.addEventListener("DOMContentLoaded", function () {
     contentGridElement.appendChild(newContentElement);
   }
 });
+
+  AOS.init();
